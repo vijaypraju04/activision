@@ -1,4 +1,4 @@
-I designed this project to give users the ability to participate in activist events or create their own events. Each user has their own profile page and their data changes based on the type of activist events they are attending or have created. Each user has the ability to follow other users if they appreciate the type of activist work they do based on their chart data and specific events attended.
+This application gives users the ability to participate in activist events or create their own events. Each user has their own profile page and their data changes based on the type of activist events they are attending or have created. Each user has the ability to follow other users if they appreciate the type of activist work they have completed based on their chart data and details on their attended events.
 
 
 ![alt text](https://thumbs.gfycat.com/CraftyCarefulAmoeba-size_restricted.gif)
