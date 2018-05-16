@@ -36,6 +36,8 @@ VIDEO LINK - https://gfycat.com/gifs/detail/FragrantFirsthandAracari
 
 VIDEO LINK - https://gfycat.com/gifs/detail/ShabbyTastyDormouse
 
+Fully functioning user authentication system that will can allow new users to create an account or previous users to log in to their old accounts while sustaining all their old information and data.
+
 
 
 ACITIVSION - FRONTEND - https://github.com/vijaypraju04/activision-front-end/tree/finishing-auth
